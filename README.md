@@ -46,7 +46,7 @@ bun index.ts
 - [ ] Observer
 - [ ] State
 - [x] Strategy
-- [ ] Template Method
+- [x] Template Method
 - [ ] Visitor
 
 ---
