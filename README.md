@@ -44,7 +44,7 @@ bun index.ts
 - [ ] Mediator
 - [ ] Memento
 - [ ] Observer
-- [ ] State
+- [x] State
 - [x] Strategy
 - [x] Template Method
 - [ ] Visitor
