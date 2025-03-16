@@ -21,7 +21,7 @@ bun index.ts
 
 - [ ] Factory Method
 - [ ] Abstract Factory
-- [ ] Singleton
+- [x] Singleton
 - [ ] Builder
 - [ ] Prototype
 
