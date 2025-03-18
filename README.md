@@ -27,7 +27,7 @@ bun index.ts
 
 ## Structural Design Patterns
 
-- [ ] Adapter
+- [x] Adapter
 - [ ] Bridge
 - [ ] Composite
 - [ ] Decorator
