@@ -19,7 +19,7 @@ bun index.ts
 
 ## Creational Design Patterns
 
-- [ ] Factory Method
+- [x] Factory Method
 - [ ] Abstract Factory
 - [x] Singleton
 - [ ] Builder
