@@ -32,7 +32,7 @@ bun index.ts
 - [ ] Composite
 - [ ] Decorator
 - [x] Facade
-- [ ] Flyweight
+- [x] Flyweight
 - [x] Proxy
 
 ## Behavioral Design Patterns
