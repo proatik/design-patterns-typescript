@@ -43,7 +43,7 @@ bun index.ts
 - [ ] Iterator
 - [ ] Mediator
 - [ ] Memento
-- [ ] Observer
+- [x] Observer
 - [x] State
 - [x] Strategy
 - [x] Template Method
