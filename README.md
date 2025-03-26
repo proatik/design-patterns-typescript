@@ -41,7 +41,7 @@ bun index.ts
 - [ ] Command
 - [ ] Interpreter
 - [ ] Iterator
-- [ ] Mediator
+- [x] Mediator
 - [ ] Memento
 - [x] Observer
 - [x] State
