@@ -22,7 +22,7 @@ bun index.ts
 - [x] Factory Method
 - [ ] Abstract Factory
 - [x] Singleton
-- [ ] Builder
+- [x] Builder
 - [ ] Prototype
 
 ## Structural Design Patterns
