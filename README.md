@@ -30,7 +30,7 @@ bun index.ts
 - [x] Adapter
 - [x] Bridge
 - [ ] Composite
-- [ ] Decorator
+- [x] Decorator
 - [x] Facade
 - [x] Flyweight
 - [x] Proxy
