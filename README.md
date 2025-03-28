@@ -42,7 +42,7 @@ bun index.ts
 - [ ] Interpreter
 - [ ] Iterator
 - [x] Mediator
-- [ ] Memento
+- [x] Memento
 - [x] Observer
 - [x] State
 - [x] Strategy
