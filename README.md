@@ -38,7 +38,7 @@ bun index.ts
 ## Behavioral Design Patterns
 
 - [ ] Chain of Responsibility
-- [ ] Command
+- [x] Command
 - [ ] Interpreter
 - [ ] Iterator
 - [x] Mediator
