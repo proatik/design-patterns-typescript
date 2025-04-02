@@ -39,7 +39,7 @@ bun index.ts
 
 - [x] Chain of Responsibility
 - [x] Command
-- [ ] Interpreter
+- [x] Interpreter
 - [ ] Iterator
 - [x] Mediator
 - [x] Memento
