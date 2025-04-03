@@ -1,3 +1,5 @@
+![Object Oriented Design Patterns](./images/oodp.jpg)
+
 # Learning Design Patterns
 
 A repository dedicated to understanding and implementing Object Oriented Design Patterns in TypeScript. This project uses `Bun.js` as the runtime environment.
