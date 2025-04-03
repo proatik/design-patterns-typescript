@@ -44,6 +44,7 @@ bun index.ts
 - [x] Mediator
 - [x] Memento
 - [x] Observer
+- [x] Publisher Subscriber
 - [x] State
 - [x] Strategy
 - [x] Template Method
