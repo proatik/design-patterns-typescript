@@ -49,5 +49,6 @@ bun index.ts
 - [x] Strategy
 - [x] Template Method
 - [x] Visitor
+- [x] Specification
 
 ---
